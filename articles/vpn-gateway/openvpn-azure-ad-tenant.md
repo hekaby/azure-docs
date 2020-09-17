@@ -78,6 +78,9 @@ Use the steps in [this article](../active-directory/fundamentals/add-users-azure
 5. Select the **Global Admin** account if prompted.
 
     ![Directory ID](./media/openvpn-create-azure-ad-tenant/pick.png)
+    
+    > [!NOTE]
+    > Guest accounts give problems when granting permissions, use local accounts.
 
 6. Select **Accept** when prompted.
 
